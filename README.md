@@ -105,8 +105,7 @@ git clone https://github.com/MoyankGiri/PowerBI-Uber-Data-Analytics.git
 ---
 
 ## 👤 Author
-**Moyank Giri**  
-_Data Analyst & Power BI Developer_  
+**Moyank Giri**    
 📅 **Report Date:** October 2025  
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/moyankgiri/)  
