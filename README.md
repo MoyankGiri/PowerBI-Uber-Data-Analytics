@@ -89,7 +89,7 @@ Contains booking details including:
 
 ### 🧩 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/uber-ride-analytics-dashboard.git
+git clone https://github.com/MoyankGiri/PowerBI-Uber-Data-Analytics.git
 ```
 
 ### 📊 2. Open the Power BI Dashboard
